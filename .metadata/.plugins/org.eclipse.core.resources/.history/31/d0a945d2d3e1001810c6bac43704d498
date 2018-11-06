@@ -1,0 +1,10 @@
+package chapter2;
+
+public class ChartacterEx1_1 {
+
+	public static void main(String[] args) {
+		char ch1 = 'a';
+		char ch2 = "a";
+	}
+
+}
