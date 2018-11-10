@@ -1,3 +1,1 @@
-INDEX VERSION 1.131+D:\java_eclipse\.metadata\.plugins\org.eclipse.jdt.core
-3363292014.index
-3854698192.index
+INDEX VERSION 1.131+/Users/jkh/Google 드라이브/java_study/java_study/.metadata/.plugins/org.eclipse.jdt.core
